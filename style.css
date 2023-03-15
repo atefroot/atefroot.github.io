@@ -447,7 +447,7 @@ justify-content: space-between;
 
 /* contact section styling */
 .contact .title::after{
-    content: "Entrer en contact";
+    content: "contact";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
