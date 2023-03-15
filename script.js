@@ -41,7 +41,7 @@ var typed = new Typed(".typing", {
 });
 
 var typed = new Typed(".typing-2", {
-    strings: [ "Web Developer", "Web Designer", "Freelancer"],
+    strings: [ "Développeur Web"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
