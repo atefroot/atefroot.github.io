@@ -232,6 +232,7 @@ justify-content: space-between;
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
+    text-justify: auto;
 }
 .about .about-content .right .text span{
     color: crimson;
